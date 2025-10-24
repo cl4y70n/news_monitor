@@ -1,0 +1,7 @@
+pandas
+dash
+plotly
+beautifulsoup4
+requests
+transformers
+langchain
